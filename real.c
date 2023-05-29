@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// faça um progama em C que leia um número real e imprima.
 int main()
 {
     float n;
